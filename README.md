@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+11/30/18
 
 ### Student Name:  
-(First and Last Name)
+Luke Nitti
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Learning how to use and apply jQuery in a number of situations 
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://lan15c.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+I learned how to make a list drop down when you hover the mouse over a header
+How to make smaller animations like a fading list appear
+I learned how to use jQuery to make the website more interactive 
 
